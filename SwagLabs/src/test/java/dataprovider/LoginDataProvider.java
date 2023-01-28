@@ -20,4 +20,11 @@ public class LoginDataProvider {
 			{"standard_user"," ","Epic sadface: Username and password do not match any user in this service"}
 		};
 	}
+	
+	@DataProvider
+	public static Object[][] swagLabAddToCart() {
+		return new Object[][] {
+			{"Sauce Labs Backpack#Sauce Labs Fleece Jacket#Sauce Labs Onesie","Sauce Labs Backpack#Sauce Labs Fleece Jacket#Sauce Labs Onesie"}
+		};
+	}
 }

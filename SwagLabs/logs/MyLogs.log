@@ -1,0 +1,141 @@
+[INFO ] 2023-01-28 11:37:52.333 [main] InventoryPage - Starting addToCartMethod Method
+[INFO ] 2023-01-28 11:37:52.343 [main] InventoryPage - With InventoryPage class Object calling addItem method
+[INFO ] 2023-01-28 11:37:52.343 [main] InventoryPage - Starting addItem Method
+[INFO ] 2023-01-28 11:37:52.343 [main] InventoryPage - Getting inventory list
+[INFO ] 2023-01-28 11:37:52.421 [main] InventoryPage - Getting inventory list
+[INFO ] 2023-01-28 11:37:52.440 [main] InventoryPage - Looping inventory list
+[INFO ] 2023-01-28 11:37:52.501 [main] InventoryPage - WebElement of inventory_item_name
+[INFO ] 2023-01-28 11:37:52.501 [main] InventoryPage - split item into string array
+[INFO ] 2023-01-28 11:37:52.502 [main] InventoryPage - Converting String array to list
+[INFO ] 2023-01-28 11:37:52.520 [main] InventoryPage - Checking itemList list contains inventory_item_name 
+[INFO ] 2023-01-28 11:37:52.521 [main] InventoryPage - Checking if condition
+[INFO ] 2023-01-28 11:37:52.547 [main] InventoryPage - Getting WebElement of addToCart
+[INFO ] 2023-01-28 11:37:52.650 [main] InventoryPage - clicking addToCart element
+[INFO ] 2023-01-28 11:37:52.681 [main] InventoryPage - Looping inventory list
+[INFO ] 2023-01-28 11:37:52.777 [main] InventoryPage - WebElement of inventory_item_name
+[INFO ] 2023-01-28 11:37:52.778 [main] InventoryPage - split item into string array
+[INFO ] 2023-01-28 11:37:52.779 [main] InventoryPage - Converting String array to list
+[INFO ] 2023-01-28 11:37:52.810 [main] InventoryPage - Checking itemList list contains inventory_item_name 
+[INFO ] 2023-01-28 11:37:52.841 [main] InventoryPage - Looping inventory list
+[INFO ] 2023-01-28 11:37:52.928 [main] InventoryPage - WebElement of inventory_item_name
+[INFO ] 2023-01-28 11:37:52.929 [main] InventoryPage - split item into string array
+[INFO ] 2023-01-28 11:37:52.930 [main] InventoryPage - Converting String array to list
+[INFO ] 2023-01-28 11:37:52.958 [main] InventoryPage - Checking itemList list contains inventory_item_name 
+[INFO ] 2023-01-28 11:37:52.988 [main] InventoryPage - Looping inventory list
+[INFO ] 2023-01-28 11:37:53.077 [main] InventoryPage - WebElement of inventory_item_name
+[INFO ] 2023-01-28 11:37:53.077 [main] InventoryPage - split item into string array
+[INFO ] 2023-01-28 11:37:53.078 [main] InventoryPage - Converting String array to list
+[INFO ] 2023-01-28 11:37:53.107 [main] InventoryPage - Checking itemList list contains inventory_item_name 
+[INFO ] 2023-01-28 11:37:53.108 [main] InventoryPage - Checking if condition
+[INFO ] 2023-01-28 11:37:53.154 [main] InventoryPage - Getting WebElement of addToCart
+[INFO ] 2023-01-28 11:37:53.342 [main] InventoryPage - clicking addToCart element
+[INFO ] 2023-01-28 11:37:53.360 [main] InventoryPage - Looping inventory list
+[INFO ] 2023-01-28 11:37:53.414 [main] InventoryPage - WebElement of inventory_item_name
+[INFO ] 2023-01-28 11:37:53.414 [main] InventoryPage - split item into string array
+[INFO ] 2023-01-28 11:37:53.415 [main] InventoryPage - Converting String array to list
+[INFO ] 2023-01-28 11:37:53.432 [main] InventoryPage - Checking itemList list contains inventory_item_name 
+[INFO ] 2023-01-28 11:37:53.432 [main] InventoryPage - Checking if condition
+[INFO ] 2023-01-28 11:37:53.455 [main] InventoryPage - Getting WebElement of addToCart
+[INFO ] 2023-01-28 11:37:53.523 [main] InventoryPage - clicking addToCart element
+[INFO ] 2023-01-28 11:37:53.543 [main] InventoryPage - Looping inventory list
+[INFO ] 2023-01-28 11:37:53.597 [main] InventoryPage - WebElement of inventory_item_name
+[INFO ] 2023-01-28 11:37:53.597 [main] InventoryPage - split item into string array
+[INFO ] 2023-01-28 11:37:53.598 [main] InventoryPage - Converting String array to list
+[INFO ] 2023-01-28 11:37:53.614 [main] InventoryPage - Checking itemList list contains inventory_item_name 
+[INFO ] 2023-01-28 11:37:53.615 [main] InventoryPage - With InventoryPage class Object calling cart method
+[INFO ] 2023-01-28 11:37:53.615 [main] InventoryPage - clicking on cart image
+[INFO ] 2023-01-28 11:37:53.782 [main] InventoryPage - By using CartPage class object getting title
+[INFO ] 2023-01-28 11:37:53.782 [main] InventoryPage - Starting validateCartItems Method
+[INFO ] 2023-01-28 11:37:53.783 [main] InventoryPage - Getting cartItems list
+[INFO ] 2023-01-28 11:37:53.984 [main] InventoryPage - Calling validateCartItems method 
+[INFO ] 2023-01-28 11:37:54.028 [main] InventoryPage - Calling validateCartItemsCount method 
+[INFO ] 2023-01-28 11:39:51.681 [main] InventoryPage - Starting addItem Method
+[INFO ] 2023-01-28 11:39:51.709 [main] InventoryPage - Getting inventory list
+[INFO ] 2023-01-28 11:39:51.801 [main] InventoryPage - Getting inventory list
+[INFO ] 2023-01-28 11:39:51.820 [main] InventoryPage - Looping inventory list
+[INFO ] 2023-01-28 11:39:51.880 [main] InventoryPage - WebElement of inventory_item_name
+[INFO ] 2023-01-28 11:39:51.880 [main] InventoryPage - split item into string array
+[INFO ] 2023-01-28 11:39:51.881 [main] InventoryPage - Converting String array to list
+[INFO ] 2023-01-28 11:39:51.903 [main] InventoryPage - Checking itemList list contains inventory_item_name 
+[INFO ] 2023-01-28 11:39:51.904 [main] InventoryPage - Checking if condition
+[INFO ] 2023-01-28 11:39:51.930 [main] InventoryPage - Getting WebElement of addToCart
+[INFO ] 2023-01-28 11:39:51.999 [main] InventoryPage - clicking addToCart element
+[INFO ] 2023-01-28 11:39:52.019 [main] InventoryPage - Looping inventory list
+[INFO ] 2023-01-28 11:39:52.092 [main] InventoryPage - WebElement of inventory_item_name
+[INFO ] 2023-01-28 11:39:52.093 [main] InventoryPage - split item into string array
+[INFO ] 2023-01-28 11:39:52.094 [main] InventoryPage - Converting String array to list
+[INFO ] 2023-01-28 11:39:52.121 [main] InventoryPage - Checking itemList list contains inventory_item_name 
+[INFO ] 2023-01-28 11:39:52.154 [main] InventoryPage - Looping inventory list
+[INFO ] 2023-01-28 11:39:52.248 [main] InventoryPage - WebElement of inventory_item_name
+[INFO ] 2023-01-28 11:39:52.249 [main] InventoryPage - split item into string array
+[INFO ] 2023-01-28 11:39:52.250 [main] InventoryPage - Converting String array to list
+[INFO ] 2023-01-28 11:39:52.277 [main] InventoryPage - Checking itemList list contains inventory_item_name 
+[INFO ] 2023-01-28 11:39:52.307 [main] InventoryPage - Looping inventory list
+[INFO ] 2023-01-28 11:39:52.395 [main] InventoryPage - WebElement of inventory_item_name
+[INFO ] 2023-01-28 11:39:52.395 [main] InventoryPage - split item into string array
+[INFO ] 2023-01-28 11:39:52.396 [main] InventoryPage - Converting String array to list
+[INFO ] 2023-01-28 11:39:52.423 [main] InventoryPage - Checking itemList list contains inventory_item_name 
+[INFO ] 2023-01-28 11:39:52.423 [main] InventoryPage - Checking if condition
+[INFO ] 2023-01-28 11:39:52.462 [main] InventoryPage - Getting WebElement of addToCart
+[INFO ] 2023-01-28 11:39:52.640 [main] InventoryPage - clicking addToCart element
+[INFO ] 2023-01-28 11:39:52.660 [main] InventoryPage - Looping inventory list
+[INFO ] 2023-01-28 11:39:52.712 [main] InventoryPage - WebElement of inventory_item_name
+[INFO ] 2023-01-28 11:39:52.712 [main] InventoryPage - split item into string array
+[INFO ] 2023-01-28 11:39:52.713 [main] InventoryPage - Converting String array to list
+[INFO ] 2023-01-28 11:39:52.730 [main] InventoryPage - Checking itemList list contains inventory_item_name 
+[INFO ] 2023-01-28 11:39:52.731 [main] InventoryPage - Checking if condition
+[INFO ] 2023-01-28 11:39:52.758 [main] InventoryPage - Getting WebElement of addToCart
+[INFO ] 2023-01-28 11:39:52.826 [main] InventoryPage - clicking addToCart element
+[INFO ] 2023-01-28 11:39:52.849 [main] InventoryPage - Looping inventory list
+[INFO ] 2023-01-28 11:39:52.905 [main] InventoryPage - WebElement of inventory_item_name
+[INFO ] 2023-01-28 11:39:52.906 [main] InventoryPage - split item into string array
+[INFO ] 2023-01-28 11:39:52.906 [main] InventoryPage - Converting String array to list
+[INFO ] 2023-01-28 11:39:52.924 [main] InventoryPage - Checking itemList list contains inventory_item_name 
+[INFO ] 2023-01-28 11:39:52.924 [main] InventoryPage - clicking on cart image
+[INFO ] 2023-01-28 11:39:53.105 [main] InventoryPage - Starting validateCartItems Method
+[INFO ] 2023-01-28 11:39:53.106 [main] InventoryPage - Getting cartItems list
+[INFO ] 2023-01-28 11:41:38.914 [main] InventoryPage - Starting addItem Method
+[INFO ] 2023-01-28 11:41:38.932 [main] InventoryPage - Getting inventory list
+[INFO ] 2023-01-28 11:41:39.075 [main] InventoryPage - Getting inventory list
+[INFO ] 2023-01-28 11:41:39.095 [main] InventoryPage - Looping inventory list
+[INFO ] 2023-01-28 11:41:39.145 [main] InventoryPage - WebElement of inventory_item_name
+[INFO ] 2023-01-28 11:41:39.145 [main] InventoryPage - split item into string array
+[INFO ] 2023-01-28 11:41:39.146 [main] InventoryPage - Converting String array to list
+[INFO ] 2023-01-28 11:41:39.162 [main] InventoryPage - Checking itemList list contains inventory_item_name 
+[INFO ] 2023-01-28 11:41:39.162 [main] InventoryPage - Checking if condition
+[INFO ] 2023-01-28 11:41:39.181 [main] InventoryPage - Getting WebElement of addToCart
+[INFO ] 2023-01-28 11:41:39.239 [main] InventoryPage - clicking addToCart element
+[INFO ] 2023-01-28 11:41:39.257 [main] InventoryPage - Looping inventory list
+[INFO ] 2023-01-28 11:41:39.299 [main] InventoryPage - WebElement of inventory_item_name
+[INFO ] 2023-01-28 11:41:39.299 [main] InventoryPage - split item into string array
+[INFO ] 2023-01-28 11:41:39.299 [main] InventoryPage - Converting String array to list
+[INFO ] 2023-01-28 11:41:39.312 [main] InventoryPage - Checking itemList list contains inventory_item_name 
+[INFO ] 2023-01-28 11:41:39.325 [main] InventoryPage - Looping inventory list
+[INFO ] 2023-01-28 11:41:39.362 [main] InventoryPage - WebElement of inventory_item_name
+[INFO ] 2023-01-28 11:41:39.362 [main] InventoryPage - split item into string array
+[INFO ] 2023-01-28 11:41:39.362 [main] InventoryPage - Converting String array to list
+[INFO ] 2023-01-28 11:41:39.376 [main] InventoryPage - Checking itemList list contains inventory_item_name 
+[INFO ] 2023-01-28 11:41:39.390 [main] InventoryPage - Looping inventory list
+[INFO ] 2023-01-28 11:41:39.429 [main] InventoryPage - WebElement of inventory_item_name
+[INFO ] 2023-01-28 11:41:39.429 [main] InventoryPage - split item into string array
+[INFO ] 2023-01-28 11:41:39.429 [main] InventoryPage - Converting String array to list
+[INFO ] 2023-01-28 11:41:39.445 [main] InventoryPage - Checking itemList list contains inventory_item_name 
+[INFO ] 2023-01-28 11:41:39.445 [main] InventoryPage - Checking if condition
+[INFO ] 2023-01-28 11:41:39.475 [main] InventoryPage - Getting WebElement of addToCart
+[INFO ] 2023-01-28 11:41:39.678 [main] InventoryPage - clicking addToCart element
+[INFO ] 2023-01-28 11:41:39.714 [main] InventoryPage - Looping inventory list
+[INFO ] 2023-01-28 11:41:39.825 [main] InventoryPage - WebElement of inventory_item_name
+[INFO ] 2023-01-28 11:41:39.826 [main] InventoryPage - split item into string array
+[INFO ] 2023-01-28 11:41:39.827 [main] InventoryPage - Converting String array to list
+[INFO ] 2023-01-28 11:41:39.860 [main] InventoryPage - Checking itemList list contains inventory_item_name 
+[INFO ] 2023-01-28 11:41:39.861 [main] InventoryPage - Checking if condition
+[INFO ] 2023-01-28 11:41:39.913 [main] InventoryPage - Getting WebElement of addToCart
+[INFO ] 2023-01-28 11:41:40.055 [main] InventoryPage - clicking addToCart element
+[INFO ] 2023-01-28 11:41:40.090 [main] InventoryPage - Looping inventory list
+[INFO ] 2023-01-28 11:41:40.192 [main] InventoryPage - WebElement of inventory_item_name
+[INFO ] 2023-01-28 11:41:40.192 [main] InventoryPage - split item into string array
+[INFO ] 2023-01-28 11:41:40.193 [main] InventoryPage - Converting String array to list
+[INFO ] 2023-01-28 11:41:40.224 [main] InventoryPage - Checking itemList list contains inventory_item_name 
+[INFO ] 2023-01-28 11:41:40.224 [main] InventoryPage - clicking on cart image
+[INFO ] 2023-01-28 11:41:40.466 [main] InventoryPage - Starting validateCartItems Method
+[INFO ] 2023-01-28 11:41:40.467 [main] InventoryPage - Getting cartItems list
